@@ -14,4 +14,9 @@
     <ProjectReference Include="..\UpdateRequests.Client\UpdateRequests.Client.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Components\modal\" />
+    <Folder Include="Components\PageComponent\" />
+  </ItemGroup>
+
 </Project>
